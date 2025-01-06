@@ -1,3 +1,6 @@
-| Figma | 10/10 |
+| Skill | Level |
 | ---- | ---- |
-| skill | level |
+{% assign skills = site.data.skills.design | sort: "title" -%}
+{% for skill in skills -%}
+   | {{skill.title}} | {{skill.level}} |
+{% endfor %}
