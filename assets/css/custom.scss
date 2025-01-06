@@ -1,9 +1,5 @@
---- 
-#to make sure Jekyll reads this 
---- 
-
-@import "default";
-@import "author";
+@import "default.scss";
+@import "author.scss";
 @import "footer";
 @import "grid_layout";
 @import "home";
