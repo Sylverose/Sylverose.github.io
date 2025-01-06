@@ -1,15 +1,42 @@
 technical:
  - title: CSS and SCSS
-   level: Intermediate
+   level: Expert
  - title: HTML5
-   level: Intermediate
- - title: JavaScrpt
+   level: Expert
+ - title: SQL
+   level: Advanced
+ - title: JavaScript
    level: Advanced
  - title: ReactJS
    level: Advanced
 
-design:
- - title: Writing
-   level: Intermediate
+soft:
+ - title: Problem-solving
+   level: Expert
  - title: Leadership
    level: Intermediate
+ - title: Conflict resolution
+   level: Advanced
+ - title: Time management
+   level: Advanced
+ - title: Adaptability
+   level: Very high
+ - title: Collaboration
+   level: Expert
+ - title: Critical thinking
+   level: Expert
+ - title: Adaptability
+   level: Very high
+ - title: Motivation
+   level: As someone who loves what she does, my motivation is typically very high
+ - title: Ambition towards quality of results
+   level: Very high
+
+
+design:
+  - title: Design thinking
+    level: Expert
+  - title: Adobe CC
+    level: Expert
+  - title: Figma
+    level: Expert
