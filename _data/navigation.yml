@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "What's new"
-    url: "/"
   - title: "Software Development"
     url: "/developmentwork"
   - title: "Design"
