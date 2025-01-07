@@ -13,4 +13,4 @@ header:
 ---
 # Did you know that Capybaras are simply known as river swine in Denmark? 
 
-Another fun fact is that the above is entirely irrelevant to what I'm about to write.
+That's the first fun fact I learned in 2025.

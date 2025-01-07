@@ -13,16 +13,23 @@ a:visited {
 h3,
 h3.archive__subtitle {
     clear: both;
-    color: #ffffff;
+    color: #9e90d1;
     font-family: "Waiting for the Sunrise";
     font-size: 1.35em;
 }
 
+.search__toggle {
+    color: #fff;
+}
 
+:hover.search__toggle {
+    color: #fff;
+    transform: scale(2);
+}
 
 h1,
 h2 {
-    color: #e66700;
+    color: #e66465;
     font-family: "Rubik";
     font-weight: 300;
 }

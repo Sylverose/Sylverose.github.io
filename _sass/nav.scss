@@ -1,5 +1,11 @@
 .masthead {
-    background-color: #4d0bb6;
+    background: linear-gradient(to left, #e66465, #9198e5);
+}
+
+a.site-title {
+    font-family: "Waiting for the Sunrise"!important;
+    font-weight: 500;
+    font-size: 1.5em;
 }
 
 #site-nav {
@@ -14,4 +20,7 @@
 #site-nav a,
 #site-nav a:visited {
     font-family: "Rubik";
+}
+.greedy-nav .visible-links a::before {
+    background: #ffffff;
 }
