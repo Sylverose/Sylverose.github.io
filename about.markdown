@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Sylvia Rosenvold
+author_profile: true
 ---
 # Ever met a true unicorn? OUTRAGEOUS!
 

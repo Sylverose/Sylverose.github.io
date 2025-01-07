@@ -1,0 +1,12 @@
+Sylvia Rosenvold:
+  name        : "Sylvia Rosenvold"
+  bio         : "Let's talk about your next project!"
+  avatar      : "assets/img/redhedwcat.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:silver.rosenvold@gmail.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/oaros/"
+ 
