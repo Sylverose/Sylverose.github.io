@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: Unicorns are just outrageous!
+title: Find structure in your projects!
 permalink: /about/
 author: Sylvia Rosenvold
 author_profile: true
 ---
 
-Hi! I'm Sylvia Rosenvold, and I'm a software developer who likes to defy the limitations of the trade by combining my interest for design, with my passion towards coding and problem-solving. 
-If you have a great project idea, or need advice for your current one, shoot me a message.
+Services I offer within project and solutions management
 
-## Development skills
+<!--## Development skills
 
 {% include dev_skills.md %}
 
@@ -19,4 +18,4 @@ If you have a great project idea, or need advice for your current one, shoot me 
 
 ## What defines me as an individual (soft skills)
 
-{% include soft_skills.md %}
+{% include soft_skills.md %} --->

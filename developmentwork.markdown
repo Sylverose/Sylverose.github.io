@@ -1,5 +1,5 @@
 ---
-layout: categories_work
+layout: categories_dev
 title: My development work
 author_profile: true
 author: Sylvia Rosenvold

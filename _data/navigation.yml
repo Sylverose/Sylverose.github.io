@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "Software Development"
-    url: "/developmentwork"
+  - title: "Project planning"
+    url: "/about"
   - title: "Design"
     url: "/designwork"
-  - title: "Get to know me"
-    url: "/about"
+  - title: "Software Development"
+    url: "/developmentwork"
+
+  
