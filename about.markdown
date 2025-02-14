@@ -21,7 +21,11 @@ Do you have a great idea, but don't know where to start? Perhaps you are conside
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
+    Name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Message:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
