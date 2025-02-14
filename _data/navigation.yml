@@ -1,10 +1,7 @@
 # main links
 main:
-  - title: "Project planning"
+  - title: "Get free technical advice for your project"
     url: "/about"
-  - title: "Design"
-    url: "/designwork"
-  - title: "Software Development"
-    url: "/developmentwork"
+
 
   
