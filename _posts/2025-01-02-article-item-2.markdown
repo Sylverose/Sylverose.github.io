@@ -1,16 +1,16 @@
 ---
 layout: posts
-title:  "item 2"
+title:  "RWD dashboard"
 date:   2025-01-06 13:18:47 +0000
 categories: dev 
 highlight_home: dev
-tags: frontend
+tags: Corporate
 description: item 2
 header:
-    overlay_image: https://images.unsplash.com/photo-1624329809999-a2a576b0f690?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    teaser: https://images.unsplash.com/photo-1624329809999-a2a576b0f690?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    caption: "Credit [Unsplash: João leal junior](https://unsplash.com/@jooj1)"
+    overlay_image: assets/img/flow_ex.jpg
+    teaser: assets/img/prototype.jpg
+    caption: "Owned by [Vitec Aloc A/S](https://www.vitec-aloc.com/loesninger/cockpit/)"
 ---
-# Did you know that Capybaras are simply known as river swine in Denmark? 
+# RWD and re-targeting of a private investment dashboard
 
-That's the first fun fact I learned in 2025.
+<img src="https://www.vitec-aloc.com/media/fy3l1yb4/devices_hvidbg.jpg?width=636&height=477&v=1d95d6d5af69c30">

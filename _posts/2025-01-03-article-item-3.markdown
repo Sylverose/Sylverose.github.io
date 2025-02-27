@@ -4,7 +4,7 @@ title:  "Print design"
 date:   2025-01-06 13:18:47 +0000
 categories: portfolio
 highlight_home: portfolio
-tags: Design
+tags: Corporate
 description: item 3
 header:
     overlay_image: assets/img/vitasim_pack.jpg

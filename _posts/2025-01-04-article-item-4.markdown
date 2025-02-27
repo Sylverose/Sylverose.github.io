@@ -7,9 +7,9 @@ highlight_home: portfolio
 tags: Signature
 description: design
 header:
-    overlay_image: https://images.unsplash.com/photo-1624329809999-a2a576b0f690?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    teaser: https://images.unsplash.com/photo-1624329809999-a2a576b0f690?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    caption: "Credit [Unsplash: João leal junior](https://unsplash.com/@jooj1)"
+    overlay_image: assets/img/red_moon.jpg
+    teaser: assets/img/red_moon.jpg
+    
 ---
 # Did you know that Capybaras are simply known as river swine in Denmark? 
 
