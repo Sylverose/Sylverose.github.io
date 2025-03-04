@@ -2,7 +2,7 @@
 layout: posts
 title:  "Made it into 2025"
 date:   2025-01-06 13:18:47 +0000
-categories: dev
+categories: unassigned
 highlight_home: dev
 tags: data
 description: this is my first post of 2025

@@ -2,7 +2,7 @@
 layout: posts
 title:  "Nordic silence"
 date:   2025-01-06 13:18:47 +0000
-categories: design
+categories: unassigned
 highlight_home: design
 tags: academic
 description: artistic expression inspired from the Nordic Silence photography book
