@@ -57,16 +57,23 @@ Expert knowledge: my UX and design thinking expertise; borrowed knowledge and sp
 Risk of bias: **HIGH** <br><br>
 My motivation for this statement is that the experts consulted on the project offered B2B experience. With an unreachable target group, and a tendency to focus on expert use of the financial app that we were building from, several challenges arised in design thinking for mobile devices, especially in terms of simplifying interactive functions for easier use on the go.<br><br>One example would be the mathematical functions built in the app. You could search or add numbers smaller or bigger than X, by operating with collumn values. An end user might find it time-consuming while they're trying to get a quick overview on their mobile phone, while rushing to their car.<br><br>
 A later version of the app was tested with *"family and friends"*. I was not involved in the testing process.<br>
-### Prioritizing
+### Prioritizing 
 ### Participatory innovation
 ### Reaching out to nearby network
-### Co-design<br><br>
+I admit that I felt overwhelmed at times, as the only designer. There's a lot of designer communities out there, I considered asking for advice from other designers. However, with an NDA in place, not only on client data, but also on the application design itself, the risk of oversharing was too high. <br><br> Vitec Aloc A/S is part of the Vitec Software Group, that specializes in the acquisition of vertical software companies.<br> So instead, I tried to connect with other Vitec branches, and see if they had any UX designers in-house. Fortunately, I have been able to connect with [Lars Antilla](https://www.linkedin.com/in/lars-anttila/) from the main branch, and [Ingrid Mårtensson](https://www.linkedin.com/in/ingridmartensson/) UX/FE Manager at Vitec Appva AB. Together we founded a UX designer network inside Vitec Software Group, that aims to support designer and anyone interested in UX, through advice and sparring with their peers.<br><br>
+One of the most notable advantages of sparring in our internal group was the possibility to share product designs with each other, without worrying about disclosing their key features to anyone outside the corporation. <br><br>And that solved one of my biggest blocks. But not only that: it brought awareness and importance to UX design inside the Vitec Software Group.
+### Co-design<br>
+A new target group can sometimes mean the necessity to develop extra functionality. One of the most complex components that we had to build, was a portfolio selector, which would toggle a user's related portfolios. The image below is a representation of the final interaction flow. However, this was a result of many sparring sessions at the whiteboard, with fellow developers, and our product owner.<br><br>
 <img src="/assets/img/flow_ex.jpg"><br><br>
-**Highlights**<br><br><br>
+**Highlights**<br><br>
+⭐ Teamwork is golden. The solutions to the problems encountered along the way have been achieved only through close collaboration with my team members and design seriors. <br>
+⭐ While I feel like I would've applied a different design strategy, I am satisfied for making the best out of the existing project settings.<br>
+⭐ Thanks to the challenges faced, reaching out to my corporate design colleagues has resulted in an internal UX community, with yearly meet-ups, and 'roud-the-clock support for anyone working with UX.
+<br><br>
 <img src="/assets/img/prototype.jpg"><br><br>
 **Reflections**<br>
 It's not easy to take on such a big project, especially when so many variables challenge you as a designer. I have a hard time giving up on any assignments, though. I like to believe that together we can find a solution.<br>I wanted to take responsibility for making this project responsive, because the risk of missing delivery was simply too high.<br><br>Tech changes at an overwhelminly fast pace, and often we need external help in order to answer customer demands and stay relevant on the market. 
 While the learning curve was steep, I feel a lot of gratitude for my senior designers from the Vitec corporate, who have been my rock in difficult times.<br><br>
-If some passages might hint at my dissatisfaction, this is merely my way to express frustration towards the limitations. Sometimes it's hard to assess which talent resources we need on a project, especially when facing a niche assignment. Everyone did their best to meet expectations.<br><br>
+If some passages might hint at my dissatisfaction, this is merely my way to express frustration towards the limitations. Sometimes it's hard to assess which talent resources we need on a project, especially when facing a niche assignment.<br><br> While we all wish for an ideal project setting, real life can bring sequential challenges. The takeaway from thys is that we need to face them together, as a team, and learn from the experience.<br> With me on the team you can be sure that you'll have a dedicated designer from start to finish.<br><br>
 **Disclaimer**<br>
-The product and all the rights are owned by Vitec Aloc A/S. With their permission, I have used screenshots from the product prototype, which shows only mock data.<br><br>You can book at demo of the product on the company's official website.
+The product and all the rights are owned by [Vitec Aloc A/S](https://www.vitec-aloc.com/). With their permission, I have used screenshots from the product prototype, which shows only mock data.<br><br>You can book at demo of the product on the company's [official website](https://www.vitec-aloc.com/).
