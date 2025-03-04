@@ -49,7 +49,14 @@ How did I do this? By asking the right stakeholders, the right questions. <br>
 One of the above-mentioned limitations was the difficulty to come in contact with the user group. I could contact our clients, but due to NDA they could not disclose their user contact information. The ideal situation in this case, would've been to collaborate with our clients, and split responsibilities. It was also about this time that they individually started hiring UX designers in-house, which made me hope for future delegation of user research assignents - if I couldn't be in contact with the users, they could. <br>
 Alternatively, I could've gone Guerilla testing in key locations, this option seemed far too time consuming. I was already being encouraged to use as little time as possible on user contact. <br><br>
 My last, less favorite option, was to trust that relevant research had been made primarily to listing accept criteria, and use triangulation as my UX research method. <br><br>
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*70Xcm-8Wh6RNKfQS">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*70Xcm-8Wh6RNKfQS"><br><br>
+External insights: the product description documents, including accept criteria; a financial expert with experience from the client side, had been assigned to the team with a Product Owner role; client contacts for questions in relation to branding.<br>
+Internal knowledge: experience building the original application, however with a different target group; knowledge of existing technical details, primarily components for re-use.<br>
+Expert knowledge: my UX and design thinking expertise; borrowed knowledge and sparring with my peers; collaboration with in-house financial experts.<br><br>
+
+Risk of bias: **HIGH** <br><br>
+My motivation for this statement is that the experts consulted on the project offered B2B experience. With an unreachable target group, and a tendency to focus on expert use of the financial app that we were building from, several challenges arised in design thinking for mobile devices, especially in terms of simplifying interactive functions for easier use on the go.<br><br>One example would be the mathematical functions built in the app. You could search or add numbers smaller or bigger than X, by operating with collumn values. An end user might find it time-consuming while they're trying to get a quick overview on their mobile phone, while rushing to their car.<br><br>
+A later version of the app was tested with *"family and friends"*. I was not involved in the testing process.<br>
 ### Prioritizing
 ### Participatory innovation
 ### Reaching out to nearby network
@@ -60,5 +67,6 @@ My last, less favorite option, was to trust that relevant research had been made
 **Reflections**<br>
 It's not easy to take on such a big project, especially when so many variables challenge you as a designer. I have a hard time giving up on any assignments, though. I like to believe that together we can find a solution.<br>I wanted to take responsibility for making this project responsive, because the risk of missing delivery was simply too high.<br><br>Tech changes at an overwhelminly fast pace, and often we need external help in order to answer customer demands and stay relevant on the market. 
 While the learning curve was steep, I feel a lot of gratitude for my senior designers from the Vitec corporate, who have been my rock in difficult times.<br><br>
+If some passages might hint at my dissatisfaction, this is merely my way to express frustration towards the limitations. Sometimes it's hard to assess which talent resources we need on a project, especially when facing a niche assignment. Everyone did their best to meet expectations.<br><br>
 **Disclaimer**<br>
 The product and all the rights are owned by Vitec Aloc A/S. With their permission, I have used screenshots from the product prototype, which shows only mock data.<br><br>You can book at demo of the product on the company's official website.
