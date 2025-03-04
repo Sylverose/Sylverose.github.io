@@ -11,6 +11,9 @@ header:
     teaser: assets/img/red_moon.jpg
     
 ---
-# Did you know that Capybaras are simply known as river swine in Denmark? 
+# Signature cover art and product design
 
-That's the first fun fact I learned in 2025.
+**Rød Måne** <br>
+**Brydstykker af et livsstykke**<br>
+**My & Arthur** <br>
+**Om 100 dage er det hele bedre**<br>

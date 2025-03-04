@@ -13,4 +13,9 @@ header:
 ---
 # Start-up marketing: Roll-ups and flyers
 
-That's the first fun fact I learned in 2025.
+**The assignment**<br><br>
+<img src="/assets/img/vitasim_flyer.jpg">
+<img src="/assets/img/vitasim_flyer_front.jpg">
+<img src="/assets/img/print_rollups.jpg">
+<img src="/assets/img/vitasim_rollup.jpg">
+<img src="/assets/img/vitasim_pack.jpg">
