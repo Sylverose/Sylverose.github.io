@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "item 3"
+title:  "Book designs"
 date:   2025-01-06 13:18:47 +0000
 categories: portfolio
 highlight_home: portfolio
