@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "RWD dashboard"
-date:   2025-01-06 13:18:47 +0000
+title:  "Responsive dashboard"
+date:   2025-01-03 10:18:47 +0000
 categories: dev 
 highlight_home: dev
 tags: Corporate
@@ -11,7 +11,7 @@ header:
     teaser: assets/img/prototype.jpg
     caption: "Owned by [Vitec Aloc A/S](https://www.vitec-aloc.com/loesninger/cockpit/)"
 ---
-# RWD and re-targeting of a private investment dashboard
+# RWD and interaction design
 
 **Problem description**<br>
 Cockpit is a private banking solution, that gives an overview of a client's assets in a web format. Originally developed as a desktop site for bank advisors, Cockpit was scheduled to be re-designed into a new software solution for end-users.<br>The goal was to allow customers of financial institutions to view and follow their assets in real time, on a desktop, tablet or smartphone device.<br><br>
