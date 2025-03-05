@@ -24,4 +24,12 @@ a.site-title {
 .greedy-nav .visible-links a::before {
     background: #ffffff;
 }
+@media screen and (max-width: 768px) {
+    .masthead__menu-item a {
+        background: #e66465;
+    }
+    .masthead__menu-item a:hover {
+        background: #9198e5!important;
+    }
 
+}

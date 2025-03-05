@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Case highlights
+title: Portfolio highlights
 author_profile: true
 author: Sylvia Rosenvold
 ---
