@@ -3,10 +3,10 @@ Sylvia Rosenvold:
   bio         : "Hi! I'm Sylvia Rosenvold, and I'm a UX software developer who likes to combine design, with my passion towards coding and problem-solving."
   avatar      : "assets/img/Sylviapfp.jpg"
 
-  links:
+#  links:
    
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/oaros/"
+   # - label: "LinkedIn"
+   #   icon: "fas fa-fw fa-link"
+    #  url: "https://www.linkedin.com/in/oaros/"
  
  

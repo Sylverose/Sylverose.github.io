@@ -28,5 +28,10 @@
         left: 0em;
         bottom: 0;
     }
+
+
     
 }
+.btn { /* inner padding and border oddities in FF3/4*/
+    display: none;
+  }
