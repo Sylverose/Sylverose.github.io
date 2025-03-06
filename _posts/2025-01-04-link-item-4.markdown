@@ -8,7 +8,7 @@ tags: Research
 description: research
 header:
     overlay_image: assets/img/ns/nordic-silence-1.jpg
-    teaser: assets/img/ns/nordic-silence-1.jpg
+    teaser: assets/img/ns/nordic-silence-10.jpg
     
 ---
 # How do you convey Nordic Silence? 

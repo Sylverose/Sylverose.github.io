@@ -2,7 +2,13 @@
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 0em;
+    border: none;
+
+    &:not(:last-child) {
+        border: none;
+      }
 }
+
 
 .taxonomy__section+.taxonomy__section {
     margin-top: 0;
@@ -13,7 +19,6 @@
 }
 
 .taxonomy__index a {
-    border: none;
     padding: 0 5px;
     border-radius: 5px;
     background-color: #e66465;
