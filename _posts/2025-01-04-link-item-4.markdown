@@ -11,18 +11,33 @@ header:
     teaser: assets/img/ns/nordic-silence-10.jpg
     
 ---
-# How do you convey Nordic Silence? 
+# Product design apprenticeship
 
-[Silence of the North](https://mortenhilmer.com/en-dk/products/silence-of-the-north) by Morten Hilmer
-<img src="/assets/img/ns/nordic-silence-2.jpg">
-<img src="/assets/img/ns/nordic-silence-3.jpg">
-<img src="/assets/img/ns/nordic-silence-33.jpg">
-<img src="/assets/img/ns/nordic-silence-333.jpg">
-<img src="/assets/img/ns/nordic-silence-4.jpg">
-<img src="/assets/img/ns/nordic-silence-5.jpg">
-<img src="/assets/img/ns/nordic-silence-6.jpg">
-<img src="/assets/img/ns/nordic-silence-7.jpg">
-<img src="/assets/img/ns/nordic-silence-8.jpg">
-<img src="/assets/img/ns/nordic-silence-9.jpg">
+The project was inspired by the fantastic nature photography book, [Silence of the North](https://mortenhilmer.com/en-dk/products/silence-of-the-north) by Morten Hilmer. <br><br>
+The image below is how I describe "nordic silence": <br>
+The calm comfort, combined with earthy, muted colors and wool for warmth are the core. From the comfort of my cozy and minimal home, I lock eyes with the winter beyond the lit, wide windows.
+<br><br>
+<img src="/assets/img/ns/nordic-silence-1.jpg"><br><br>
+**Design is born to delight the senses**<br>
+If you thought design is not just visual. Design is not art. But art can enhance a design to new heights. <br>
+This project was all about artistic expression, and putting it in the context of the targeted audience.<br><br>
+**The brainstorming process...**<br>
+...started from fun wordplay by association. Inspiration, and the sensation of its formlessness, often come through play, through connecting with ourselves and our environment.<br>This is one thing that differentiates designers from developers: unless we have methods to harness our creativity, sitting at a desk with a timelog in our hands may lead to creative blocks.<br><br> Hence the playful approach with different tools! <br><br>
+**The paperplane-ninja and the steel pancake**<br>
+Mission no. 1: List 100 random words.<br>
+Mission no. 2: Draw 2 pairs of random words and associate them.<br><br>
+<img src="/assets/img/ns/nordic-silence-2.jpg"><br><br>
+Mission no. 3: Work in pairs. Use scrap to materialize the concept, individually.<br>
+**Compare results!** <br><br>
+<img src="/assets/img/ns/nordic-silence-3.jpg"><br><br>
+
+<img src="/assets/img/ns/nordic-silence-33.jpg"><br><br>
+**Papercut-sharp and rigidly sticky!**
+<img src="/assets/img/ns/nordic-silence-333.jpg"><br><br>
+<img src="/assets/img/ns/nordic-silence-4.jpg"><br><br>
+<img src="/assets/img/ns/nordic-silence-5.jpg"><br><br>
+<img src="/assets/img/ns/nordic-silence-6.jpg"><br><br>
+<img src="/assets/img/ns/nordic-silence-7.jpg"><br><br>
+<img src="/assets/img/ns/nordic-silence-8.jpg"><br><br>
+<img src="/assets/img/ns/nordic-silence-9.jpg"><br><br>
 <img src="/assets/img/ns/nordic-silence-10.jpg">
-<img src="/assets/img/ns/nordic-silence-1.jpg">
