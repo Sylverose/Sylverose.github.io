@@ -7,8 +7,8 @@ highlight_home: dev
 tags: Corporate
 description: item 2
 header:
-    overlay_image: assets/img/flow_ex.jpg
-    teaser: assets/img/prototype.jpg
+    overlay_image: assets/img/cp/flow_ex.jpg
+    teaser: assets/img/cp/prototype.jpg
     caption: "Owned by [Vitec Aloc A/S](https://www.vitec-aloc.com/loesninger/cockpit/)"
 ---
 # RWD and interaction design
@@ -32,7 +32,7 @@ The existing CSS was improved with LESS. I chose to stay at the office, while my
 **Results**<br>
 A customizable responsive web solution, which included an attractive basic branding package, with possibility for more customization by further development purchase.
 <br><br>
-<img src="/assets/img/client customizations.jpg"><br><br>
+<img src="/assets/img/cp/client customizations.jpg"><br><br>
 **Challenges**<br>
 🧱 Implementing design thinking: I was the first and only UX designer in a company with 50+ years of operation<br>
 🧱 Low credibility: the core of the team (primarily developers) were used to autonomy, and had worked very hard on the solution. This created some resistance in accepting a someone hired to introduce a new way of thinking in terms of usability<br>
@@ -64,13 +64,13 @@ I admit that I felt overwhelmed at times, as the only designer. There's a lot of
 One of the most notable advantages of sparring in our internal group was the possibility to share product designs with each other, without worrying about disclosing their key features to anyone outside the corporation. <br><br>And that solved one of my biggest blocks. But not only that: it brought awareness and importance to UX design inside the Vitec Software Group.
 ### Co-design<br>
 A new target group can sometimes mean the necessity to develop extra functionality. One of the most complex components that we had to build, was a portfolio selector, which would toggle a user's related portfolios. The image below is a representation of the final interaction flow. However, this was a result of many sparring sessions at the whiteboard, with fellow developers, and our product owner.<br><br>
-<img src="/assets/img/flow_ex.jpg"><br><br>
+<img src="/assets/img/cp/flow_ex.jpg"><br><br>
 **Highlights**<br><br>
 ⭐ Teamwork is golden. The solutions to the problems encountered along the way have been achieved only through close collaboration with my team members and design seriors. <br>
 ⭐ While I feel like I would've applied a different design strategy, I am satisfied for making the best out of the existing project settings.<br>
 ⭐ Thanks to the challenges faced, reaching out to my corporate design colleagues has resulted in an internal UX community, with yearly meet-ups, and 'roud-the-clock support for anyone working with UX.
 <br><br>
-<img src="/assets/img/prototype.jpg"><br><br>
+<img src="/assets/img/cp/prototype.jpg"><br><br>
 **Reflections**<br>
 It's not easy to take on such a big project, especially when so many variables challenge you as a designer. I have a hard time giving up on any assignments, though. I like to believe that together we can find a solution.<br>I wanted to take responsibility for making this project responsive, because the risk of missing delivery was simply too high.<br><br>Tech changes at an overwhelminly fast pace, and often we need external help in order to answer customer demands and stay relevant on the market. 
 While the learning curve was steep, I feel a lot of gratitude for my senior designers from the Vitec corporate, who have been my rock in difficult times.<br><br>

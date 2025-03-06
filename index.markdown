@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Portfolio highlights
+title: Selected UX Projects
 author_profile: true
 author: Sylvia Rosenvold
 ---
