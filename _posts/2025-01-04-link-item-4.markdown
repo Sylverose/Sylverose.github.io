@@ -29,15 +29,46 @@ Mission no. 2: Draw 2 pairs of random words and associate them.<br><br>
 <img src="/assets/img/ns/nordic-silence-2.jpg"><br><br>
 Mission no. 3: Work in pairs. Use scrap to materialize the concept, individually.<br>
 **Compare results!** <br><br>
+It feels fantastic to experience another vision of the same product, by comparing your project with your partner's. It has unexpected powers to overcome communication blocks and lift the creative process to new heights. <br>
+In fact, to be completely transparent, the partner assigned to be for the project, was my least favorite classmate. She knew it, I knew it, we were very different. Our working methods, schedule, approach to things were compete opposite. <br><br>
+*At the end of the assignment we were friends.* <br><br>
 <img src="/assets/img/ns/nordic-silence-3.jpg"><br><br>
+**Papercut-sharp and rigidly sticky!**<br>
+...Were the themes that we approached: the paper-plane ninja and the steel pancake. By combining sharpness with the fraily of paper, as well as the precise target strike envisioned my ninja theme. My assigment partner's take focused more on expressing fluid movements. <br>
+While I tried to fascinate the audience with the sizzling sound of pancakes, by using alumninum foil, my partner's focus fell on the fluffy texture and sticky sweetness of the pancakes. <br><br>
+**ABSOLUTELY FASCINATING** <br><br>
 
+The experience taught everyone so much about differences in perspectives, and how important is to communicate clearly and thoroughly with each other. <br>
+I will take the opportunity here to point out how important these sparring sessions were in understanding my assignment partner. We spent many hours after class, in the atelier, overcoming our differences and understanding each other's point of view. <br><br>
 <img src="/assets/img/ns/nordic-silence-33.jpg"><br><br>
-**Papercut-sharp and rigidly sticky!**
+**Open for the public**<br>
+The exploration of themes continued. To invite in fresh perspectives, the entire apprentice team invited fellow researchers to give free reign of their imagination and discuss their visions with us. It served as a good simulation of real sparring sessions with clients who may have other values and goals compared to me, as a designer.<br><br>
 <img src="/assets/img/ns/nordic-silence-333.jpg"><br><br>
+**Value** <br><br>
+*Dear reader, can you see any worth in creative processes?*<br><br>
+Our first itterations were technically piles of re-arranged trash. <br>
+The value lies in the purpose that these piles of trash served: brainstorming, communicating better, opening our minds to possibilities, thirsting for expression and knowledge. <br><br>
+It is in this creative space where endless possibilities exist - yes, including solutions to problems that may seem impossible. <br><br>
+*Our team was ready to re-create silence.*<br><br>
 <img src="/assets/img/ns/nordic-silence-4.jpg"><br><br>
+**Touch, sound, sight**<br>
+These three senses were our focus in describing the silence of the north. As a group, we felt inspired to share our vision with an audience by creating an interactive experience for them. <br><br>
+For this purpose, we used conductive materials in combination with Arduino101, that people could interact with, thus enabling the sense of touch. <br><br>
 <img src="/assets/img/ns/nordic-silence-5.jpg"><br><br>
-<img src="/assets/img/ns/nordic-silence-6.jpg"><br><br>
+**Winter moss and snow**<br>
+The team started looking for elements of winter, but in a tangible and durable form. We collected words associated with the feeling of nordic winter, one of them being moss, as the example above shows. The texture and feel and the conductive material were very similar to the moss found in nature. <br><br>
 <img src="/assets/img/ns/nordic-silence-7.jpg"><br><br>
-<img src="/assets/img/ns/nordic-silence-8.jpg"><br><br>
+Other materials that we used reminded us of crisp snow, icicles, winter flora, hiking boots crunching the snow beneath. <br><br>
+<img src="/assets/img/ns/nordic-silence-6.jpg"><br><br>
+**Let us guide your through the deafening silence of the North**<br>
+The audience was invited to an exibition room, where we looped the projection of a video featuring heavy snow in nordic countries. <br><br>
 <img src="/assets/img/ns/nordic-silence-9.jpg"><br><br>
+Different touch sensors and their specific materials were displayed on stands around the guests, to interact with. <br>
+For example, feeling the snowy textured pad, would slow down the video, giving a more calm and idylic vibe to the room. However, running fingers through the icy metal rods would speed up the blizzard, like teasing the ferocious winter to bare its fangs at the audience. <br><br>
+<img src="/assets/img/ns/nordic-silence-8.jpg"><br><br>
+**Humbling and eye-opening**<br>
+The design process, from the initial play, to the strength showcasing of the winter wilnderness at the end, broadened the team's horizons and generated overwhelmingly satisfying results.<br><br>
+None of us knew where the process would take us, not even the teacher in charge of the project.<br>
+When we were told that we will have to exhibit "silence", we were very confused. <br><br>
+This is the power of design thinking: it finds solutions to seemingly impossible problems, through teamwork and creative processes. <br><br>
 <img src="/assets/img/ns/nordic-silence-10.jpg">
