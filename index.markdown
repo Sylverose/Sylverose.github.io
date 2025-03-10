@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Selected UX Projects
+title: Are you looking for designs tailored specifically for your needs?
 author_profile: true
 author: Sylvia Rosenvold
 ---
