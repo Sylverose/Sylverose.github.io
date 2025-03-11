@@ -15,7 +15,7 @@ header:
 **Scope**<br>
 Often overlooked, the relatives of patients with brain damage suffer in silence. In order to support their loved ones, they have to navigate the medical system, while carrying their own worries and trauma. <br><br>
 The scope of the project was to hear what they have to say, and forward it to the Kolding kommune, for consideration of possible support.<br><br>
-**Target audience**: Next of kin, where the patient had some form of brain damage<br><br>
+**Target audience**: Next of kin, where the patient had some form of brain damage.<br><br>
 **Stakeholders**<br>
 The stakeholders are the municipality of Kolding (where the research was done) and various medical staff that the patients and their relatives interacted with. <br><br>
 **Designing a communication tool**<br>
