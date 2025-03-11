@@ -1,16 +1,39 @@
 ---
 layout: posts
-title:  "item 3"
+title:  "Stakeholder facilitation"
 date:   2025-01-04 13:18:47 +0000
-categories: unassigned
+categories: portfolio
 highlight_home: portfolio
-tags: Study
-description: item 3
+tags: Research
+description: Relatives of brain damage patients
 header:
-    overlay_image: https://images.unsplash.com/photo-1624329809999-a2a576b0f690?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    teaser: https://images.unsplash.com/photo-1624329809999-a2a576b0f690?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    caption: "Credit [Unsplash: João leal junior](https://unsplash.com/@jooj1)"
+    overlay_image: assets/img/bdr/stakeholder_wheel.jpg
+    teaser: assets/img/bdr/stakeholder_wheel_used.jpg
 ---
-# Did you know that Capybaras are simply known as river swine in Denmark? 
+# Support for the relatives of brain damage patients
 
-That's the first fun fact I learned in 2025.
+**Scope**<br>
+Often overlooked, the relatives of patients with brain damage suffer in silence. In order to support their loved ones, they have to navigate the medical system, while carrying their own worries and trauma. <br><br>
+The scope of the project was to hear what they have to say, and forward it to the Kolding kommune, for consideration of possible support.<br><br>
+**Target audience**: Next of kin, where the patient had some form of brain damage<br><br>
+**Stakeholders**<br>
+The stakeholders are the municipality of Kolding (where the research was done) and various medical staff that the patients and their relatives interacted with. <br><br>
+**Designing a communication tool**<br>
+Our team started by mapping out all the stakeholders. From ambulance staff to SOSU workers, and medical doctors, the list of possible interactions was quite long. 
+
+<blockquote>How do we give an easy stakeholder overview to our target audience?</blockquote> 
+<img src="/assets/img/bdr/stakeholder_wheel.jpg"> <br><br>
+We created cards, each representing a stakeholder, and placed them in a circle. <br>
+Meanwhile, our team interviewed (qualitative research) five participants to the study. Based on the analysis of their interviews, we could tell that they praised some of the stakeholders they interacted with, while feeling challenged by others. <br>
+What peaqued our interest, was the fact that not everyone we interviewed agreed on the same things. So we thought of inviting them to a joint discussion. <br><br>
+**Facilitating the workshop** <br>
+Our team wanted to give an organized view of the stakeholders, and allow the participants to rate and discuss different institutions or healthcare staff that they interacted with, on their journey to care for the affected patients. <br>
+We chose to place the stakeholder cards on a string, inside a circle, where the circle margin would represent the least helpful the participants found the stakeholders, while the center would represent the most helpful. <br><br>
+<img src="/assets/img/bdr/stakeholder_wheel_used.jpg"> <br><br>
+**Result**<br>
+Just as expected, the opinions were very different. But we already knew that.<br>
+As we invited the participants to talk about the people they interacted with, a lot of stories emerged. 
+<blockquote>"It happened very suddenly. My husband fell and I called the ambulance. They took him in, and I was not allowed to drive with them. I stayed behind, in shock, not knowing when I will hear back or whom to contact." - anonymous next of kin</blockquote>
+The study results were compiled into a report and submitted to the Kolding kommune, with the hope that there will be some support available to the families of brain damage patients.
+<br><br>
+<img src="/assets/img/bdr/tool.gif">
